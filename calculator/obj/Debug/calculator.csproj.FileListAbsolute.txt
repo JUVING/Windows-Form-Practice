@@ -1,0 +1,9 @@
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\calculator\bin\Debug\calculator.exe.config
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\calculator\bin\Debug\calculator.exe
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\calculator\bin\Debug\calculator.pdb
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\calculator\obj\Debug\calculator.Form1.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\calculator\obj\Debug\calculator.exe
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\calculator\obj\Debug\calculator.pdb
