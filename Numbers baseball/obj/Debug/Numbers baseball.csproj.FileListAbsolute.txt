@@ -1,0 +1,11 @@
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\Numbers baseball\bin\Debug\Numbers baseball.exe.config
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\Numbers baseball\bin\Debug\Numbers baseball.exe
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\Numbers baseball\bin\Debug\Numbers baseball.pdb
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\Numbers baseball\obj\Debug\Numbers baseball.csproj.AssemblyReference.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\Numbers baseball\obj\Debug\Numbers_baseball.Form1.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\Numbers baseball\obj\Debug\Numbers_baseball.Properties.Resources.resources
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\Numbers baseball\obj\Debug\Numbers baseball.csproj.GenerateResource.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\Numbers baseball\obj\Debug\Numbers baseball.csproj.CoreCompileInputs.cache
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\Numbers baseball\obj\Debug\Numbers baseball.exe
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\Numbers baseball\obj\Debug\Numbers baseball.pdb
+C:\visualstudia\c# 프로그래밍\Windows_Form\연습\Numbers baseball\obj\Debug\Numbers_baseball.Gamerule.resources
