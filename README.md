@@ -1,6 +1,6 @@
 Cash_register
 
-MySQL과 연동하여 상품 데이터를 가져와서 결제와 재고 조회를 실시한다.
+MySQL과 연동하여 상품 데이터를 가져와서 결제와 재고 조회 및 정산을 실시한다.
 
 ![image](https://github.com/JUVING/Windows-Forms-Practice/assets/129962308/137c5813-bdfa-4b13-962e-f75a78d12252)
 
